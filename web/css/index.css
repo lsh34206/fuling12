@@ -1,0 +1,63 @@
+html{
+	background: #0D4261;
+}
+button{
+	color: black;
+}
+.manwi{
+    margin: 6.425px;
+	border: 2px solid white;
+	color: black;
+	background: aquamarine;
+}
+.hzsg{
+    margin:6.425px;
+	border: 2px solid white;
+	color: black;
+	background: tomato;
+}
+.sogehi{
+    margin:6.425px;
+    border:2px solid white;
+    color:black;
+    background:yellow;
+}
+.sogemb{
+	margin: 6.425px
+	  border:2px solid white;
+   background:darkgreen;
+    color:black;
+}
+.gongzi{
+	margin: 6.425px
+	  border:2px solid white;
+   background:beige;
+    color:black;
+}
+.evt{
+	margin: 6.425px
+	  border:2px solid white;
+   background:azure;
+    color:black;
+}
+.sound{
+		margin: 6.425px
+	  border:2px solid white;
+   background: cyan;
+    color:black;
+}
+h1,h2,h3,h4,h5,h6{
+    color: black;
+}
+h1,h2,h3,h4,h5,h6,.hzsg,.manwi,button,html,.sogehi,.sogemb,.gongzi,.evt, {
+    text-decoration:none;
+}
+hr .1{
+	width: 100px;
+	height: 3.425px;
+	color: black;
+
+}
+.hb1,.hb2,.hb3,.hb4,.hb5,.hb6,.hb7,.hb8,.hb9,.hb10,.hb11,.hb12,.hb13,.hb14,.hb15,.hb16,.hb17,.hb18,.hb19,.hb20,.hb21,.hb22,.hb23,.hb24,.h25,.hb26,.hb27,.hb28{
+	border:7.365px solid white;
+}
